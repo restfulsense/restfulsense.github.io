@@ -15,9 +15,10 @@ LUCA takes security seriously and helps users avoid many common security mistake
 
 ### LUCA helps Healthcare on:
 Drug production trends、Drug production comparisons、Traceability、Factors which contribute to yield.
- ![Image](src)
+
 ### LUCA helps Lifesciences on:
 Intelligence Decision Supporting、AI and ML on lab simulation 、data forecast.
+![Image](https://github.com/restfulsense/restfulsense.github.io/blob/master/luca/images/product_6.png)
 
 ## Data as a Service
 LUCA provided a powerful and flexible toolkit for data-set setup and building Web APIs. 
@@ -25,7 +26,6 @@ Some reasons you might want to use this:
 The Web browsable API is a huge usability win for your developers. 
 Trading Data as a Commodity on the Electronic Commerce Platform
 
-[Link](url) and ![Image](https://github.com/restfulsense/restfulsense.github.io/blob/master/luca/images/product_6.png)
 
 ## Get ready to own the digital era.
 ### All your data for all your people
