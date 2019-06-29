@@ -2,26 +2,40 @@
 
 LUCA is a Data Governance Middleware that lets you work more effectively.
 
-### Markdown
+### LUCA(露卡)-数据治理中间件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ridiculously fast
+LUCA was designed to help users take data governance from concept to completion as quickly as possible.
 
-```markdown
-Syntax highlighted code block
+# Exceedingly scalable
+Some of the busiest data setup on the application leverage LUCA’s ability to quickly and flexibly scale.
 
-# Header 1
-## Header 2
-### Header 3
+# Reassuringly secure
+LUCA takes security seriously and helps users avoid many common security mistakes.
 
-- Bulleted
-- List
+# LUCA helps Healthcare on:
+Drug production trends、Drug production comparisons、Traceability、Factors which contribute to yield.
 
-1. Numbered
-2. List
+# LUCA helps Lifesciences on:
+Intelligence Decision Supporting、AI and ML on lab simulation 、data forecast.
 
-**Bold** and _Italic_ and `Code` text
+### Data as a Service
+LUCA provided a powerful and flexible toolkit for data-set setup and building Web APIs. 
+Some reasons you might want to use this: 
+The Web browsable API is a huge usability win for your developers. 
+Trading Data as a Commodity on the Electronic Commerce Platform
 
 [Link](url) and ![Image](src)
+
+### Get ready to own the digital era.
+# All your data for all your people
+Combine all your data – yes, all – and make it analysis-ready for everyone to freely explore.
+
+# A new breed of AI
+Amplify human brainpower with machine intelligence for faster, smarter, and bolder discoveries
+
+# Analytics throughout your business
+Bring analytics into every decision – with the only platform that extends to every team, process, application and device.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
