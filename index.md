@@ -1,4 +1,4 @@
-# Welcome to LUCA(露卡) 
+## Welcome to LUCA(露卡) 
 
 LUCA is a Data Governance Middleware that lets you work more effectively.
 ![Image](https://github.com/restfulsense/restfulsense.github.io/raw/master/luca/images/luca.png)
