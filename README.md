@@ -26,9 +26,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### About us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/restfulsense/luca/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+中国-贝宣信息科技(上海)有限公司
+企业数据治理方案规划及实施专家（生命科学&医药健康）
 
 ### Support or Contact
 
